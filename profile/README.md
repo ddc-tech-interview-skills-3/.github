@@ -6,7 +6,7 @@ If you are seeing this text, then you are either:
 
 - not a member of this cohort; or ...
 - not logged in to GitHub; or ...
-- logged in to GitHub, but not on an account that has been invited to this org.
+- logged in to GitHub, but not with an account that has been invited to this org.
 
 ## Content
 
